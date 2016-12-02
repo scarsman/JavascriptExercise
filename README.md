@@ -1,4 +1,4 @@
-# Javascripts Exercises - Preparation for NodeJs
+# Javascripts Exercise - Preparation for NodeJs
 
 Problem 1:
 
