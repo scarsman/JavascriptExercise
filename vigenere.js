@@ -138,8 +138,8 @@ var Vigenere = function() {
 }
 
 var v = new Vigenere();
-var message = "now is the time for all good men to come to the aid of their fellow man";
-var password = "excalibur";
+//var message = "now is the time for all good men to come to the aid of their fellow man";
+//var password = "excalibur";
 var message = "PNPAA summer outing 2016 gateway to success";
 var password = "Alumnimeetup2016";
 var key = v.get_key(password,message);
